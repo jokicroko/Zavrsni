@@ -60,7 +60,7 @@
         @endif
         @endif
         <br>
-        <footer class="blockquote-footer">Algebra 2023 - Ivo Zlatunić</footer>
+        <footer class="blockquote-footer">Algebra 2023 / Roko Jokić</footer>
     </div>
 @endsection
     
